@@ -1,0 +1,23 @@
+#FreeEed Project
+#Wed Apr 18 23:23:37 CDT 2012
+project-file-path=/home/mark/projects/FreeEed/sample_freeeed_linux.project
+project-code=0002
+text-in-metadata=
+staging-dir=test-output/staging
+output-dir=test-output/output
+file-system=local
+files-per-zip-staging=50
+project-file-name=sample_freeeed_linux.project
+input=test-data/01-one-time-test,test-data/02-loose-files,test-data/03-enron-pst,https\://s3.amazonaws.com/shmsoft/SHMcloud.zip
+field-separator=pipe
+metadata=standard
+custodian=c1,c2,c3,enron
+run=
+culling=
+s3bucket=s3\://shmsoft
+skip=0
+remove-system-files=
+stage=
+gigs-per-zip-staging=0.1
+process-where=local
+project-name=My sample project

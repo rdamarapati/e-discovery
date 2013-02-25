@@ -1,0 +1,12 @@
+TO RUN THE PROGRAM
+==================
+
+See how-to-run.txt files
+
+HOW TO BUILD
+============
+
+Clone and build FreeEed: 
+mvn -Pcloudera clean install
+
+However! Developers -see 'for_developers_only'
